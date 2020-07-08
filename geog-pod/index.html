@@ -11,13 +11,9 @@ layout: default
    				<source src="https://s3.amazonaws.com/db.podplay.content/geog_pod.m4a">
    			</audio>
 		</div>
-		<div class="container">
-			<div id="notes"></div>
-		</div>
+		{% include notes.html %}
 		<div class="container">
 			<div id="questions"></div>
 		</div>
-		<div class="container">
-			{% include bib.html %}
-		</div>
+		{% include bib.html %}
 </html>
