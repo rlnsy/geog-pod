@@ -1,0 +1,6 @@
+<h2>Questions</h2>
+<ol>
+	{% for q in site.data.questions %}
+		<li class="question">{{ q.text }}</li>
+  	{% endfor %}
+</ol>
