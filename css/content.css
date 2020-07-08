@@ -13,10 +13,23 @@
 	max-width: 660px;	
 }
 
-#bib-container {
+.container {
 	max-width: 660px;	
 }
 
 #photo {
-	width: 400px;
+	max-width: 400px;
+}
+
+.note {
+	text-align: left;
+	align-items: center;
+}
+
+.question {
+	text-align: left;
+}
+
+#graph1 {
+	max-width: 700px;
 }
