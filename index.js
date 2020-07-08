@@ -1,1 +1,0 @@
-$("#bib").load("bib.html")
