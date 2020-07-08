@@ -9,6 +9,10 @@
 	align-items: center;
 }
 
+#title {
+	max-width: 660px;	
+}
+
 #bib-container {
 	max-width: 660px;	
 }
