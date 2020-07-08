@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Podcast
+title: "Podcast: The Effect of Housing Commodification on Aboriginal People"
 email: development@rowanlindsay.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Home to an awesome podcast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "rlnsy.github.io/geog-pod/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _rlnsy
